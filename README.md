@@ -13,3 +13,9 @@ Assignment  | Language | Description
 - Topics of this lesson are; Introduction to C++ programming, classes and objects, Control Structures, Functions, arrays Pointers and Strings, Classes and Data Abstraction, Operator Overloading, Virtual Functions and Polymorphism, Templates, Exception Handling, Standard Template Library, Introduction to Java and comparison with C++.
 ## Course Details
 - https://abl.gtu.edu.tr/ects/?duzey=ucuncu&modul=ders_bilgi_formu&dno=B%C4%B0L%20241&tip=lisans&bolum=104&dil=en
+
+## Hex Game
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Hex-board-11x11-%282%29.jpg">
+</p>
+<h2 align="center">Blue won</h2>
